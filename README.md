@@ -7,7 +7,7 @@ The goal of this repository is to strengthen Java fundamentals and improve probl
 
 📂 Project Structure
 
-
+src │ ├── Amazon │ ├── Collection │ ├── CollectionsByRiddhi │ ├── CoreJavaPractice │ ├── ExceptionHandling │ ├── Practice │ ├── PracticeOOPS │ ├── Shreyansh │ ├── Stream │ ├── Trustt │ │ │ ├── FirstProgram.java │ └── Main.java
 
 📚 Topics Covered
 1️⃣ Core Java Basics
