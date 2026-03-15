@@ -6,26 +6,8 @@ This repository contains my Core Java practice programs and exercises covering i
 The goal of this repository is to strengthen Java fundamentals and improve problem-solving skills.
 
 📂 Project Structure
-JavaShreyansh
-│
-├── src
-│   ├── Amazon
-│   ├── Collection
-│   ├── CollectionsByRiddhi
-│   ├── CoreJavaPractice
-│   ├── ExceptionHandling
-│   ├── Practice
-│   ├── PracticeOOPS
-│   ├── Shreyansh
-│   ├── Stream
-│   ├── Trustt
-│   │
-│   ├── FirstProgram.java
-│   └── Main.java
-│
-├── .gitignore
-├── JavaShreyansh.iml
-└── out
+
+
 
 📚 Topics Covered
 1️⃣ Core Java Basics
