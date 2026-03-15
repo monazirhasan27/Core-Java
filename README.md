@@ -6,6 +6,7 @@ This repository contains my Core Java practice programs and exercises covering i
 The goal of this repository is to strengthen Java fundamentals and improve problem-solving skills.
 
 📚 Topics Covered
+
 1️⃣ Core Java Basics
 
 Variables and Data Types
